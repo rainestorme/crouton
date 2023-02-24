@@ -1,0 +1,14 @@
+#!/bin/bash
+
+echo "                              .___       "
+echo "               ____  ____   __| _/______ "
+echo "             _/ ___\/ __ \ / __ |\_  __ \"
+echo "             \  \__\  ___// /_/ | |  | \/"
+echo "              \___  >___  >____ | |__|   "
+echo "                 \/    \/     \/        "
+echo
+echo "                     version 0.2"
+echo "          running on upstream crouton ae59434"
+echo "                created by @rainestorme"
+echo
+echo "cedr is an early POC, don't use it for anything important."
